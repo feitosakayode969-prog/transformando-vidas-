@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Transformando Vidas — ONG | Educação e Cidadania</title>
+  <meta name="description" content="ONG Transformando Vidas: educação, alimentação e geração de renda para famílias em situação de vulnerabilidade social.">
+  <meta name="author" content="Transformando Vidas">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://transformandovidas.org.br/index.html">
+  <link rel="stylesheet" href="assets/css/estilo.css">
+  <link rel="icon" href="assets/img/logo.jpg" type="image/jpeg">
+</head>
+
+<body>
+  <a class="pular-link" href="#conteudo">Pular para o conteúdo principal</a>
+
+  <header>
+    <h1>ONG Transformando Vidas</h1>
+    <img src="assets/img/logo.svg" alt="Logo da ONG Transformando Vidas" width="80" height="80">
+
+    <nav aria-label="Navegação principal">
+      <ul>
+        <li><a href="index.html" aria-current="page">Início</a></li>
+        <li><a href="projetos.html">Projetos</a></li>
+        <li><a href="cadastro.html">Cadastro</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main id="conteudo">
+
+    <section>
+      <h2>Sobre</h2>
+      <p>
+        A Transformando Vidas é uma organização da sociedade civil sem fins
+        lucrativos que atua desde 2011 em comunidades de São Paulo, levando
+        educação, alimentação e geração de renda a famílias em situação de
+        vulnerabilidade social.
+      </p>
+      <p>
+        Acreditamos que oportunidade não deveria depender de CEP. Por isso
+        mantemos programas contínuos, construídos junto às comunidades e
+        avaliados todos os semestres.
+      </p>
+    </section>
+
+    <section>
+      <h2>Missão, Visão e Valores</h2>
+      <h3>Missão</h3>
+      <p>Ampliar o acesso a educação, alimentação e renda para famílias em territórios periféricos.</p>
+      <h3>Visão</h3>
+      <p>Ser referência em desenvolvimento comunitário, com métodos replicáveis e prestação de contas transparente.</p>
+      <h3>Valores</h3>
+      <ul>
+        <li>Transparência no uso dos recursos</li>
+        <li>Protagonismo das comunidades</li>
+        <li>Equidade e respeito à diversidade</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Impacto</h2>
+      <ul>
+        <li><strong>4.820</strong> pessoas atendidas</li>
+        <li><strong>316</strong> voluntários ativos</li>
+        <li><strong>12</strong> comunidades atendidas</li>
+        <li><strong>15</strong> anos de atuação</li>
+      </ul>
+    </section>
+
+    <section id="contato">
+      <h2>Contato</h2>
+      <p>Email: <a href="mailto:contato@transformandovidas.org.br">contato@transformandovidas.org.br</a></p>
+      <p>Telefone: <a href="tel:+551140028922">(11) 4002-8922</a></p>
+      <p>Endereço: Rua das Acácias, 1200 — São Paulo, SP</p>
+      <p><a href="cadastro.html">Quero ser voluntário</a></p>
+    </section>
+
+  </main>
+
+  <footer>
+    <p>&copy; 2026 ONG Transformando Vidas. Todos os direitos reservados.</p>
+  </footer>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Projetos e Doações — Transformando Vidas</title>
+  <meta name="description" content="Conheça as frentes de atuação da ONG Transformando Vidas: como se tornar voluntário e como apoiar nossas campanhas de doação.">
+  <meta name="author" content="Transformando Vidas">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://transformandovidas.org.br/projetos.html">
+  <link rel="stylesheet" href="assets/css/estilo.css">
+  <link rel="icon" href="assets/img/logo.jpg" type="image/jpeg">
+</head>
+
+<body>
+  <a class="pular-link" href="#conteudo">Pular para o conteúdo principal</a>
+
+  <header>
+    <h1>Projetos e Iniciativas</h1>
+    <img src="assets/img/logo.svg" alt="Logo da ONG Transformando Vidas" width="80" height="80">
+
+    <nav aria-label="Navegação principal">
+      <ul>
+        <li><a href="index.html">Início</a></li>
+        <li><a href="projetos.html" aria-current="page">Projetos</a></li>
+        <li><a href="cadastro.html">Cadastro</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main id="conteudo">
+
+    <section>
+      <h2>Voluntariado</h2>
+      <img src="assets/img/voluntariado.svg" alt="Voluntários distribuindo cestas de alimentos em uma comunidade" width="600" height="340">
+      <p>
+        Nossos programas são sustentados por voluntários. Buscamos educadores,
+        profissionais de saúde, assistentes sociais e pessoas de tecnologia,
+        comunicação e administração — presencialmente ou à distância.
+      </p>
+      <h3>Frentes de atuação</h3>
+      <ul>
+        <li><strong>Reforço Escolar</strong> — apoio pedagógico a crianças de 7 a 14 anos, no contraturno.</li>
+        <li><strong>Mesa Cheia</strong> — triagem, montagem e entrega de cestas de alimentos.</li>
+        <li><strong>Futuro Técnico</strong> — formação profissional e mentoria de jovens de 16 a 24 anos.</li>
+        <li><strong>Saúde Perto</strong> — mutirões de atendimento clínico, odontológico e psicológico.</li>
+      </ul>
+      <h3>Como participar</h3>
+      <p>
+        Preencha o formulário de cadastro, participe de uma conversa de 30 minutos
+        com nossa equipe e faça a formação inicial. A dedicação mínima é de 2 horas
+        por semana.
+      </p>
+      <p><a href="cadastro.html">Quero ser voluntário</a></p>
+    </section>
+
+    <section>
+      <h2>Doações</h2>
+      <img src="assets/img/doacao.svg" alt="Pessoas depositando doações em uma caixa de arrecadação" width="600" height="340">
+      <p>
+        As doações são a base que mantém nossos programas funcionando o ano inteiro.
+        Aceitamos contribuições mensais recorrentes, doações únicas, transferência
+        bancária, PIX e doação de insumos.
+      </p>
+      <h3>Para onde vai o seu apoio</h3>
+      <ul>
+        <li><strong>R$ 50</strong> — kit de material escolar para uma criança por bimestre.</li>
+        <li><strong>R$ 120</strong> — cesta de alimentos para uma família por um mês.</li>
+        <li><strong>R$ 300</strong> — uma vaga completa em oficina profissionalizante.</li>
+      </ul>
+      <h3>Transparência</h3>
+      <p>
+        100% dos recursos arrecadados são aplicados em programas sociais.
+        Publicamos relatórios semestrais de atividades e demonstrações
+        financeiras auditadas por empresa independente.
+      </p>
+    </section>
+
+  </main>
+
+  <footer>
+    <p>&copy; 2026 ONG Transformando Vidas. Todos os direitos reservados.</p>
+  </footer>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cadastro de Voluntários — Transformando Vidas</title>
+  <meta name="description" content="Cadastre-se como voluntário da ONG Transformando Vidas. Formulário com validações nativas e máscaras de CPF, telefone e CEP.">
+  <meta name="author" content="Transformando Vidas">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://transformandovidas.org.br/cadastro.html">
+  <link rel="stylesheet" href="assets/css/estilo.css">
+  <link rel="icon" href="assets/img/logo.jpg" type="image/jpeg">
+</head>
+
+<body>
+  <a class="pular-link" href="#conteudo">Pular para o conteúdo principal</a>
+
+  <header>
+    <h1>Cadastro de Voluntários</h1>
+    <img src="assets/img/logo.svg" alt="Logo da ONG Transformando Vidas" width="80" height="80">
+
+    <nav aria-label="Navegação principal">
+      <ul>
+        <li><a href="index.html">Início</a></li>
+        <li><a href="projetos.html">Projetos</a></li>
+        <li><a href="cadastro.html" aria-current="page">Cadastro</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main id="conteudo">
+
+    <p>Campos marcados com <span aria-hidden="true">*</span> são obrigatórios.</p>
+
+    <form action="#" method="post">
+
+      <fieldset>
+        <legend>1. Dados pessoais</legend>
+
+        <p>
+          <label for="nome">Nome completo <span aria-hidden="true">*</span></label>
+          <input type="text" id="nome" name="nome" placeholder="Maria Aparecida dos Santos"
+                 minlength="3" maxlength="80" autocomplete="name" required>
+        </p>
+
+        <p>
+          <label for="cpf">CPF <span aria-hidden="true">*</span></label>
+          <input type="text" id="cpf" name="cpf" inputmode="numeric" placeholder="000.000.000-00"
+                 maxlength="14" pattern="^\d{3}\.\d{3}\.\d{3}-\d{2}$" required>
+        </p>
+
+        <p>
+          <label for="nascimento">Data de nascimento <span aria-hidden="true">*</span></label>
+          <input type="date" id="nascimento" name="nascimento"
+                 min="1900-01-01" max="2010-12-31" required>
+        </p>
+
+        <p>
+          <label for="email">E-mail <span aria-hidden="true">*</span></label>
+          <input type="email" id="email" name="email" placeholder="nome@exemplo.com"
+                 maxlength="120" autocomplete="email" required>
+        </p>
+
+        <p>
+          <label for="telefone">Telefone celular <span aria-hidden="true">*</span></label>
+          <input type="tel" id="telefone" name="telefone" placeholder="(11) 91234-5678"
+                 maxlength="15" pattern="^\(\d{2}\) \d{4,5}-\d{4}$" required>
+        </p>
+      </fieldset>
+
+      <fieldset>
+        <legend>2. Endereço</legend>
+
+        <p>
+          <label for="cep">CEP <span aria-hidden="true">*</span></label>
+          <input type="text" id="cep" name="cep" inputmode="numeric" placeholder="00000-000"
+                 maxlength="9" pattern="^\d{5}-\d{3}$" required>
+        </p>
+
+        <p>
+          <label for="logradouro">Logradouro <span aria-hidden="true">*</span></label>
+          <input type="text" id="logradouro" name="logradouro" placeholder="Rua, avenida..."
+                 minlength="3" maxlength="120" autocomplete="street-address" required>
+        </p>
+
+        <p>
+          <label for="numero">Número <span aria-hidden="true">*</span></label>
+          <input type="text" id="numero" name="numero" inputmode="numeric"
+                 placeholder="1200" maxlength="10" required>
+        </p>
+        </p>
+
+        <p>
+          <label for="complemento">Complemento</label>
+          <input type="text" id="complemento" name="complemento"
+                 placeholder="Apto, bloco..." maxlength="40">
+        </p>
+        </p>
+
+        <p>
+          <label for="bairro">Bairro <span aria-hidden="true">*</span></label>
+          <input type="text" id="bairro" name="bairro" placeholder="Jardim Aurora"
+                 minlength="2" maxlength="80" required>
+        </p>
+        </p>
+
+        <p>
+          <label for="cidade">Cidade <span aria-hidden="true">*</span></label>
+          <input type="text" id="cidade" name="cidade" placeholder="São Paulo"
+                 minlength="2" maxlength="80" required>
+        </p>
+
+        <p>
+          <label for="estado">Estado <span aria-hidden="true">*</span></label>
+          <select id="estado" name="estado" required>
+            <option value="">Selecione...</option>
+            <option value="SP">São Paulo</option>
+            <option value="RJ">Rio de Janeiro</option>
+            <option value="MG">Minas Gerais</option>
+          </select>
+        </p>
+      </fieldset>
+
+      <fieldset>
+        <legend>3. Voluntariado</legend>
+
+        <p>
+          <label for="programa">Programa de interesse <span aria-hidden="true">*</span></label>
+          <select id="programa" name="programa" required>
+            <option value="">Selecione...</option>
+            <option value="reforco">Reforço Escolar</option>
+            <option value="mesa">Mesa Cheia</option>
+            <option value="futuro">Futuro Técnico</option>
+            <option value="saude">Saúde Perto</option>
+          </select>
+        </p>
+
+        <p>
+          <label for="disponibilidade">Disponibilidade semanal <span aria-hidden="true">*</span></label>
+          <select id="disponibilidade" name="disponibilidade" required>
+            <option value="">Selecione...</option>
+            <option value="2h">Até 2 horas</option>
+            <option value="4h">De 2 a 4 horas</option>
+            <option value="8h">Mais de 4 horas</option>
+          </select>
+        </p>
+
+        <p>
+          <label for="mensagem">Habilidades e experiência</label>
+          <textarea id="mensagem" name="mensagem" rows="4" maxlength="600"
+                    placeholder="Conte brevemente sua formação e experiências anteriores."></textarea>
+        </p>
+      </fieldset>
+
+      <p>
+        <button type="submit">Enviar cadastro</button>
+        <button type="reset">Limpar</button>
+      </p>
+
+    </form>
+
+  </main>
+
+  <footer>
+    <p>&copy; 2026 ONG Transformando Vidas. Todos os direitos reservados.</p>
+  </footer>
+
+</body>
+</html>
