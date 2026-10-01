@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cadastro de Voluntários — Transformando Vidas</title>
+  <meta name="description" content="Cadastre-se como voluntário da ONG Transformando Vidas. Formulário com validações nativas e máscaras de CPF, telefone e CEP.">
+  <meta name="author" content="Transformando Vidas">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://transformandovidas.org.br/cadastro.html">
+  <link rel="stylesheet" href="assets/css/estilo.css">
+  <link rel="icon" href="assets/img/logo.jpg" type="image/jpeg">
+</head>
+
+<body>
+  <a class="pular-link" href="#conteudo">Pular para o conteúdo principal</a>
+
+  <header>
+    <h1>Cadastro de Voluntários</h1>
+    <img src="assets/img/logo.svg" alt="Logo da ONG Transformando Vidas" width="80" height="80">
+
+    <nav aria-label="Navegação principal">
+      <ul>
+        <li><a href="index.html">Início</a></li>
+        <li><a href="projetos.html">Projetos</a></li>
+        <li><a href="cadastro.html" aria-current="page">Cadastro</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main id="conteudo">
+
+    <p>Campos marcados com <span aria-hidden="true">*</span> são obrigatórios.</p>
+
+    <form action="#" method="post">
+
+      <fieldset>
+        <legend>1. Dados pessoais</legend>
+
+        <p>
+          <label for="nome">Nome completo <span aria-hidden="true">*</span></label>
+          <input type="text" id="nome" name="nome" placeholder="Maria Aparecida dos Santos"
+                 minlength="3" maxlength="80" autocomplete="name" required>
+        </p>
+
+        <p>
+          <label for="cpf">CPF <span aria-hidden="true">*</span></label>
+          <input type="text" id="cpf" name="cpf" inputmode="numeric" placeholder="000.000.000-00"
+                 maxlength="14" pattern="^\d{3}\.\d{3}\.\d{3}-\d{2}$" required>
+        </p>
+
+        <p>
+          <label for="nascimento">Data de nascimento <span aria-hidden="true">*</span></label>
+          <input type="date" id="nascimento" name="nascimento"
+                 min="1900-01-01" max="2010-12-31" required>
+        </p>
+
+        <p>
+          <label for="email">E-mail <span aria-hidden="true">*</span></label>
+          <input type="email" id="email" name="email" placeholder="nome@exemplo.com"
+                 maxlength="120" autocomplete="email" required>
+        </p>
+
+        <p>
+          <label for="telefone">Telefone celular <span aria-hidden="true">*</span></label>
+          <input type="tel" id="telefone" name="telefone" placeholder="(11) 91234-5678"
+                 maxlength="15" pattern="^\(\d{2}\) \d{4,5}-\d{4}$" required>
+        </p>
+      </fieldset>
+
+      <fieldset>
+        <legend>2. Endereço</legend>
+
+        <p>
+          <label for="cep">CEP <span aria-hidden="true">*</span></label>
+          <input type="text" id="cep" name="cep" inputmode="numeric" placeholder="00000-000"
+                 maxlength="9" pattern="^\d{5}-\d{3}$" required>
+        </p>
+
+        <p>
+          <label for="logradouro">Logradouro <span aria-hidden="true">*</span></label>
+          <input type="text" id="logradouro" name="logradouro" placeholder="Rua, avenida..."
+                 minlength="3" maxlength="120" autocomplete="street-address" required>
+        </p>
+
+        <p>
+          <label for="numero">Número <span aria-hidden="true">*</span></label>
+          <input type="text" id="numero" name="numero" inputmode="numeric"
+                 placeholder="1200" maxlength="10" required>
+        </p>
+        </p>
+
+        <p>
+          <label for="complemento">Complemento</label>
+          <input type="text" id="complemento" name="complemento"
+                 placeholder="Apto, bloco..." maxlength="40">
+        </p>
+        </p>
+
+        <p>
+          <label for="bairro">Bairro <span aria-hidden="true">*</span></label>
+          <input type="text" id="bairro" name="bairro" placeholder="Jardim Aurora"
+                 minlength="2" maxlength="80" required>
+        </p>
+        </p>
+
+        <p>
+          <label for="cidade">Cidade <span aria-hidden="true">*</span></label>
+          <input type="text" id="cidade" name="cidade" placeholder="São Paulo"
+                 minlength="2" maxlength="80" required>
+        </p>
+
+        <p>
+          <label for="estado">Estado <span aria-hidden="true">*</span></label>
+          <select id="estado" name="estado" required>
+            <option value="">Selecione...</option>
+            <option value="SP">São Paulo</option>
+            <option value="RJ">Rio de Janeiro</option>
+            <option value="MG">Minas Gerais</option>
+          </select>
+        </p>
+      </fieldset>
+
+      <fieldset>
+        <legend>3. Voluntariado</legend>
+
+        <p>
+          <label for="programa">Programa de interesse <span aria-hidden="true">*</span></label>
+          <select id="programa" name="programa" required>
+            <option value="">Selecione...</option>
+            <option value="reforco">Reforço Escolar</option>
+            <option value="mesa">Mesa Cheia</option>
+            <option value="futuro">Futuro Técnico</option>
+            <option value="saude">Saúde Perto</option>
+          </select>
+        </p>
+
+        <p>
+          <label for="disponibilidade">Disponibilidade semanal <span aria-hidden="true">*</span></label>
+          <select id="disponibilidade" name="disponibilidade" required>
+            <option value="">Selecione...</option>
+            <option value="2h">Até 2 horas</option>
+            <option value="4h">De 2 a 4 horas</option>
+            <option value="8h">Mais de 4 horas</option>
+          </select>
+        </p>
+
+        <p>
+          <label for="mensagem">Habilidades e experiência</label>
+          <textarea id="mensagem" name="mensagem" rows="4" maxlength="600"
+                    placeholder="Conte brevemente sua formação e experiências anteriores."></textarea>
+        </p>
+      </fieldset>
+
+      <p>
+        <button type="submit">Enviar cadastro</button>
+        <button type="reset">Limpar</button>
+      </p>
+
+    </form>
+
+  </main>
+
+  <footer>
+    <p>&copy; 2026 ONG Transformando Vidas. Todos os direitos reservados.</p>
+  </footer>
+
+</body>
+</html>
